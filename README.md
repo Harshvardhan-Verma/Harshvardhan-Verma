@@ -1,5 +1,5 @@
-<h1 align="center">Hello!👋, I'm Harsh Mc from Chapra Bihar</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h1 align="center">Hey there 👋, I'm Harshvardhan Verma</h1>
+<h3 align="center">A passionate Full Stack Web Developer</h3>
 
 <p align="center">
   📫 Reach me at: <a href="mailto:selfmanish01@gmail.com">harshbsdk@gmail.com</a>
